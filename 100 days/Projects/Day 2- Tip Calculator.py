@@ -6,5 +6,7 @@ tip_as_percent = tip / 100
 total_bill = round(bill + (bill * tip_as_percent), 2)
 people = int(input("How many people will split the bill? "))
 person_pays = total_bill / people
+# new function that forces a specific format below
+# function forces float to have 2 decimal places
 final_bill = "{:.2f}".format(person_pays)
 print(f"Each person should pay: ${final_bill}")
