@@ -4,7 +4,7 @@
     "python.linting.flake8Enabled": false,
     "editor.formatOnSave": true,
     "python.formatting.provider": "black",
-    "workbench.colorTheme": "Dracula",
+    "workbench.colorTheme": "Noctis Bordo",
     "python.pythonPath": "C:\\Users\\Matt\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
     "python.analysis.typeCheckingMode": "basic"
 }
