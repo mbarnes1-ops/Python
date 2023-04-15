@@ -41,8 +41,8 @@ if cross_roads == "left":
                 Your body is immediately frozen and shatters. Game Over.")
         elif door == "yellow":
             print("The door opens and you see a small box, \
-                sitting on the floor. Opening it, you find riches beyond \
-                your wildest dreams! You have won!")
+sitting on the floor. Opening it, you find riches beyond \
+your wildest dreams! You have won!")
         else:
             print("You die. Game over.")
     else:
@@ -51,4 +51,4 @@ if cross_roads == "left":
         closer and end up drowning. Game Over.")
 else:
     print("You find yourself more and more lost, and starve to death. \
-    Game over.")
+Game over.")

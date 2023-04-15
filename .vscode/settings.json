@@ -5,5 +5,6 @@
     "editor.formatOnSave": true,
     "python.formatting.provider": "black",
     "workbench.colorTheme": "Dracula",
-    "python.pythonPath": "C:\\Users\\Matt\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe"
+    "python.pythonPath": "C:\\Users\\Matt\\AppData\\Local\\Microsoft\\WindowsApps\\python.exe",
+    "python.analysis.typeCheckingMode": "basic"
 }
